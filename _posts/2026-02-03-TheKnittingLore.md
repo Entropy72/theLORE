@@ -5,12 +5,12 @@ categories: [Knitting]
 tags: []     # lowercase
 ---
 
->####KNITTING
->
->In a world where crochet is the next big creative hobby and knitting is a thing of old, I have decided to take it up the craft. Knitting that is. 
->
->Knitting isn't just stitches intrically looped into each other, continuously dropping from needles (IT'S MORE THAN THAT)
->It consists of soothing repitition, that allows you multitask reading, conversations and lectures without it enveloping your entire consiousness (unlike the tedious work of crocheting).   
+KNITTING
+
+In a world where crochet is the next big creative hobby and knitting is a thing of old, I have decided to take it up the craft. Knitting that is. 
+
+Knitting isn't just stitches intrically looped into each other, continuously dropping from needles (IT'S MORE THAN THAT)
+It consists of soothing repitition, that allows you multitask reading, conversations and lectures without it enveloping your entire consiousness (unlike the tedious work of crocheting).   
 
 WHAT IT IS:
 
@@ -29,9 +29,9 @@ WHY YOU SHOULD NOT GET INTO IT:
 WHERE CAN YOU LEARN:
 
 You can join a knitting club, ask a friend or where we learn most things this era, watch a youtube video (yeah, no chatgtp can't help you on this).
-I'll link everything you need down.
+I'll link everything you might need.[^Ω].
 
-CLEARING MISUNDERSTANDINGS:
+CLEARING MISUNDERSTANDINGS
 
 Lots of people do needle work not just your grandmother. and isn't it just fire? Frame it another way, it already slips into unique. Make it something that is yours.
 
@@ -49,7 +49,24 @@ Learn these stitches to start - the cast on (get your stitches on a needle), the
 Knitting is all about learning it yourself, go online, explore patterns in your budget and in your skillset (and those that aren't). There is no one pyramid or ladder to becoming a good knitter. Knitting is as big or as small as you want it to be. Make it yours.
 
 
--itrolode
+--------
+
+Sometimes we all need to turn a part of our brain off and be with yourself. Knitting has been that thing for me.  
+Find if it's yours too
+
+
+
+[^Ω]: Patterns - [Ravelery](https://www.ravelry.com)
+
+Youtube - [Nimble Needles](https://www.youtube.com/c/NimbleNeedles)
+
+Supplies - [Yarn](https://www.amazon.in/Ganga-Acrowools-Desire-Knitting-Crochet/dp/B0BMGCLD6X)
+
+[Needles](https://www.amazon.in/Aluminium-Knitting-Needle-Artefacts-Sweaters/dp/B0FF46MZGR)
+
+
+
+-ITROLODE⌬
  
   
 
