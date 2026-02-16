@@ -5,12 +5,12 @@ categories: [knitting]
 tags: []     # lowercase
 ---
 
-KNITTING
-
-In a world where crochet is the next big creative hobby and knitting is a thing of old, I have decided to take it up the craft. Knitting that is. 
-
-Knitting isn't just stitches intrically looped into each other, continuously dropping from needles (IT'S MORE THAN THAT)
-It consists of soothing repitition, that allows you multitask reading, conversations and lectures without it enveloping your entire consiousness (unlike the tedious work of crocheting).   
+>####KNITTING
+>
+>In a world where crochet is the next big creative hobby and knitting is a thing of old, I have decided to take it up the craft. Knitting that is. 
+>
+>Knitting isn't just stitches intrically looped into each other, continuously dropping from needles (IT'S MORE THAN THAT)
+>It consists of soothing repitition, that allows you multitask reading, conversations and lectures without it enveloping your entire consiousness (unlike the tedious work of crocheting).   
 
 WHAT IT IS:
 
@@ -33,15 +33,24 @@ I'll link everything you need down.
 
 CLEARING MISUNDERSTANDINGS:
 
-Lots of people do needle work not just your grandmother. and isn't it just fire? Another thing to keep in mind is that knitting is to make loose wearable fabric - and some of the soft toys and keychains you might notice are from crochet. 
+Lots of people do needle work not just your grandmother. and isn't it just fire? Frame it another way, it already slips into unique. Make it something that is yours.
 
-- While some may claim I am a teensy bit biased towards knitting (over crochet), both do have their benefits and nothing stops you from doing both. so start one. do both. (knitting takes less fabric so you know what to start first 👍)
+One more thing - knitting is to make loose wearable fabric - some of the woolwork keychains you might have your eye on are crocheted. 
+
+While some may claim I am a teensy bit biased towards knitting (over crochet), both do have their benefits and nothing stops you from doing both. so start one. do both. (knitting takes less fabric so you know what to start first 👍)
 
 
 EXTRA INFO:
 
-Knitting comes in two main styles - english style and continental. If you're to 
+Knitting comes in two main styles - the english (not harry) style and the continental one. English is simpler and easier to master, but if you notice someone knitting in continental and you wondering where this THIRD (the betrayal) stitch has come from, watch for the outcome. Both styles form the exact same stitches. 
 
+Learn these stitches to start - the cast on (get your stitches on a needle), the knit stitch (pack in the punch) and the bind off (finally get them off your needle). Upgrade your cast on (long tail is a good  choice), once your knit stitch is perfected. Then get to a purl stitch. And then maybe one day consider upgrading your cast off stitch. 
+
+Knitting is all about learning it yourself, go online, explore patterns in your budget and in your skillset (and those that aren't). There is no one pyramid or ladder to becoming a good knitter. Knitting is as big or as small as you want it to be. Make it yours.
+
+
+-itrolode
+ 
   
 
 
