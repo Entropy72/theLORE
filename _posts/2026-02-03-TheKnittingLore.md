@@ -52,8 +52,9 @@ Knitting is all about learning it yourself, go online, explore patterns in your 
 --------
 
 Sometimes we all need to turn a part of our brain off and be with yourself. Knitting has been that thing for me.  
-Find if it's yours too
+And maybe it's yours too
 
+----------
 
 
 [^Ω]: Patterns - [Ravelery](https://www.ravelry.com)
@@ -64,7 +65,7 @@ Supplies - [Yarn](https://www.amazon.in/Ganga-Acrowools-Desire-Knitting-Crochet/
 
 [Needles](https://www.amazon.in/Aluminium-Knitting-Needle-Artefacts-Sweaters/dp/B0FF46MZGR)
 
-
+-----------------------
 
 -ITROLODE⌬
  
