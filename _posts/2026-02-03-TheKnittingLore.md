@@ -29,7 +29,7 @@ WHY YOU SHOULD NOT GET INTO IT:
 WHERE CAN YOU LEARN:
 
 You can join a knitting club, ask a friend or where we learn most things this era, watch a youtube video (yeah, no chatgtp can't help you on this).
-I'll link everything you might need.[^Ω].
+I'll link everything you might need.[^Ω]
 
 CLEARING MISUNDERSTANDINGS
 
