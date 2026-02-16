@@ -1,7 +1,7 @@
 ---
 title: The Knitting Lore
 date: 2026-02-03 18:04:17 +05:30
-categories: [knitting]
+categories: [Knitting]
 tags: []     # lowercase
 ---
 
